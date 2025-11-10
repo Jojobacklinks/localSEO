@@ -9,7 +9,7 @@ Let’s break down why this matters, and how to approach it in a way that makes 
 
 ## Why Local SEO Matters
 
-Think about your own habits for finding services now. You probably do not pull out the old paper phone book anymore. Instead, you pick up your phone or start your computer and search for what you need. Search engines like Google have become the gatekeepers of local business. The businesses that show up on the first page of results get the most clicks, inquiries, and sales.
+Think about your own habits for finding services now. You probably do not pull out the old paper phone book anymore. Instead, you pick up your phone or start your computer and search for what you need. Search engines like Google have become the gatekeepers of local business. The businesses that show up on the first page of results get the most clicks, inquiries, and sales. This is exactly where [local SEO services](https://pxel7media.com/our-services/search-engine-optimization/affordable-local-seo-services/) come into play, helping businesses optimize their online presence so they appear prominently in these search results and attract nearby customers actively looking for their services.
 
 For example:
 
@@ -51,7 +51,7 @@ When local people search, Google will connect your website to their queries.
 
 ### 4. List Your Business on Local Directories
 
-Register your company on sites such as Yelp, BBB, Angi, and Chamber of Commerce directories. Use your exact business name, phone, and address every time. If there are typos or mismatched info, Google might get confused and not show your listing.
+Register your company on sites such as Yelp, BBB, Angi, and Chamber of Commerce, and [free service business directories](https://expertondeck.com/). Use your exact business name, phone, and address every time. If there are typos or mismatched info, Google might get confused and not show your listing.
 
 ### 5. Post Photos and Regular Updates
 
@@ -59,7 +59,7 @@ Adding current photos and news to your profile helps Google see your business is
 
 ### 6. Track Your Results with Free Tools
 
-Both Google Business Profile and Google Analytics provide free reports on how people find you. Check these reports every few weeks. You can see which keywords people use to find you, where they live, whether they called or messaged you, and what pages they viewed. If you notice most results are coming from a certain town or zip code, double down there with flyers, ads, or local content.
+Both Google Business Profile and [Google Analytics](https://marketingplatform.google.com/about/analytics/) provide free reports on how people find you. Check these reports every few weeks. You can see which keywords people use to find you, where they live, whether they called or messaged you, and what pages they viewed. If you notice most results are coming from a certain town or zip code, double down there with flyers, ads, or local content.
 
 ## The Real Impact of Local SEO
 
