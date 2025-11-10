@@ -35,7 +35,7 @@ You can start local SEO yourself, and most steps do not cost anything except you
 
 ### 1. Claim and Fill Out Your Google Business Profile
 
-This is your first priority. Claim your business on Google and fill out every section as completely as possible. Use the same business name shown on signs and invoices. List accurate hours, pick the most fitting categories, upload photos showing your team and work, and keep the contact info consistent everywhere.
+This is your first priority. Claim your business on [Google Business](https://business.google.com/en-all/business-profile/) and fill out every section as completely as possible. Use the same business name shown on signs and invoices. List accurate hours, pick the most fitting categories, upload photos showing your team and work, and keep the contact info consistent everywhere.
 
 Consistency builds trust, both for Google and your customers.
 
